@@ -1,10 +1,10 @@
 {
-    "name": "newhandfun/c3m3h1",
+    "name": "newhandfun/waterball_design_pattern_homework_base",
     "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Newhandfun\\C4M1H1\\": "src/",
+            "Src\\": "src/",
             "Tests\\": "tests/"
         },
         "files": [
