@@ -1,0 +1,1 @@
+docker container run --name waterball --rm -w /app -it -v ${PWD}:/app/ wyrihaximusnet/php:8.1-nts-bullseye-slim-dev-root vendor/bin/phpunit "$@"

@@ -1,0 +1,23 @@
+{
+    "name": "newhandfun/c3m3h1",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Newhandfun\\C4M1H1\\": "src/",
+            "Tests\\": "tests/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "newhandfun",
+            "email": "newhandfun@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
